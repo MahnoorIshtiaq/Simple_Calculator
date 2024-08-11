@@ -83,5 +83,6 @@ simple-calculator/
 ## Screenshots
 
 ![Calculator Screenshot](Calculator.png)
+![Calculator Screenshot](calculator.png)
 
 
