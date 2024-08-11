@@ -41,7 +41,7 @@ To run this project locally, you only need a web browser. No additional software
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/simple-calculator.git](https://github.com/MahnoorIshtiaq/Simple_Calculator.git)
+   git clone [https://github.com/MahnoorIshtiaq/Simple_Calculator.git]
    ```
 
 2. **Navigate to the Project Directory:**
