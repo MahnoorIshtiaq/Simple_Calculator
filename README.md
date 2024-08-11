@@ -10,7 +10,6 @@ A modern and user-friendly calculator built using HTML, CSS, and JavaScript. Thi
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 
 
 ## Overview
